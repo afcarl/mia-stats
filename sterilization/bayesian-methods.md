@@ -14,4 +14,4 @@ We then deterministically compute the percentage reduction $\delta_{p}$ from the
 
 $\delta_{p} = \frac{\mu_{pre} - \mu_{post}}{\mu_{pre}} \times 100\%$
 
-The Bayesian estimation model was implemented in PyMC3 (ver. 3.0) in the Python programming language (ver 3.5). Notebooks are available on GitHub (https://github.com/ericmjl/mia-stats/blob/master/sterilization/sterilization.ipynb) and is archived on Zenodo (DOI: ).
+The Bayesian estimation model was implemented in PyMC3 (ver. 3.0) in the Python programming language (ver 3.5). Notebooks are available on GitHub (https://github.com/ericmjl/mia-stats/blob/master/sterilization/sterilization.ipynb) and is archived on Zenodo (DOI: http://doi.org/10.5281/zenodo.275624).
